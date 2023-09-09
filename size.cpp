@@ -12,5 +12,6 @@ int main(){
     cout<<"El numero maximo es: "<< a;
     cout <<endl<< "Alumno 0: " << &alumno[0] << endl <<"Alumno 1: " << &alumno[1]<<endl ;
     cout<<"Size Alumno:"<<sizeof(string);
+    cout<<"Size Integer:"<<sizeof(int);
     return 0;
 }
